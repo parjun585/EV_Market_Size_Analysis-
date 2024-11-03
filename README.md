@@ -28,21 +28,21 @@ The primary objective of this analysis is to leverage historical EV registration
 
 ## Installation
 1. **Clone the repository**:
-   \`\`\`bash
+   ```sh
    git clone https://github.com/parjun585/EV_Market_Size_Analysis-
    cd EV_Market_Size_Analysis-
-   \`\`\`
+   ```
 
 2. **Set up a virtual environment**:
-   \`\`\`bash
+   ```sh
    python3 -m venv env
    source env/bin/activate  # On Windows: .\env\Scripts\activate
-   \`\`\`
+   ```
 
 3. **Install dependencies**:
-   \`\`\`bash
+   ```sh
    pip install -r requirements.txt
-   \`\`\`
+   ```
 
 ## Data Description
 - **Data Source**: [Data.gov](https://statso.io/wp-content/uploads/2024/03/EV-data.zip)
